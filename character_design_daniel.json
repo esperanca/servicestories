@@ -1,0 +1,37 @@
+{
+    "Character": "Daniel",
+    "Design Style": "Editorial Storyboard Style",
+    "Face & Head": {
+        "Head Shape": "Oval with slightly squared jaw, clean black outline",
+        "Hair": "Short, dark, slightly wavy, navy blue fill, minimal texture",
+        "Beard & Mustache": "Full beard connected to mustache, navy-colored shape with a few texture lines",
+        "Eyebrows": "Thick and expressive, simple curved strokes",
+        "Eyes": "Small dot-style eyes, black, evenly spaced",
+        "Glasses": "Thick rectangular navy frame, simplified bold outline"
+    },
+    "Expression": {
+        "Default": "Neutral to slightly serious expression",
+        "Mouth": "Small horizontal stroke, placed low on the face",
+        "Flexibility": "Can easily switch to relaxed or smiling with minimal line change"
+    },
+    "Clothing": {
+        "Outerwear": "Dark navy coat/jacket with simple outline, minimal detail",
+        "Shirt": "Light sage-green T-shirt, flat fill, optional white geometric symbol"
+    },
+    "Body & Proportions": {
+        "Proportions": "Slightly larger head relative to body for expressiveness",
+        "Torso": "Simplified, minimal detail",
+        "Hands": "Simplified, mitten-style or minimal fingers if not focus"
+    },
+    "Color Mapping": {
+        "Hair/Beard/Glasses/Coat": "Deep navy",
+        "Skin": "White with no shading",
+        "Shirt": "Light muted green, desaturated tone",
+        "Accents/Backgrounds": "Yellow fills for emphasis or focus"
+    },
+    "Storyboard Adaptation": {
+        "Gestures": "Exaggerated gestures such as pointing, holding items, showing surprise or relaxation",
+        "Identifiers": "Beard and glasses as consistent visual markers",
+        "Focus": "Yellow halos or background blocks behind the head in panels"
+    }
+}

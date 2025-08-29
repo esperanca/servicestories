@@ -1,0 +1,38 @@
+{
+  "Character": "Marco",
+  "Design Style": "Editorial Storyboard Style",
+  "Face & Head": {
+    "Head Shape": "Round with a broad jawline; clean navy outline",
+    "Hair": "Bald crown with short side tufts; deep navy flat fill",
+    "Eyebrows": "Thick, arched, highly expressive; simple curved strokes",
+    "Eyes": "Small dot-style eyes, evenly spaced",
+    "Glasses": "Oversized rounded-rectangular navy frame; bold simplified outline",
+    "Mouth": "Wide curved smile for default; can switch to small horizontal stroke or open-mouth laugh"
+  },
+  "Expression": {
+    "Default": "Cheerful and approachable with subtle mischievousness",
+    "Flexibility": "Easily exaggerates to hearty laughter, comic frustration, surprise, or determined focus with minimal line changes (brows + mouth)"
+  },
+  "Clothing": {
+    "Top": "Dark navy button-down shirt with thin white vertical stripes; single pocket with yellow flap/accent",
+    "Outerwear": "Optional casual blazer (deep navy), minimal seam detail",
+    "Accessories": "None by default"
+  },
+  "Body & Proportions": {
+    "Proportions": "Short, stocky build with slightly larger head-to-body ratio for readability",
+    "Torso": "Rounded chest and belly; minimal folds",
+    "Hands": "Simplified mitten-style; show 3–4 finger hints only when hands are a focal action"
+  },
+  "Color Mapping": {
+    "Hair/Glasses/Shirt/Blazer": "Deep navy",
+    "Skin": "White with no shading",
+    "Shirt Stripes": "White (flat lines)",
+    "Accents/Backgrounds": "Yellow fills for emphasis (e.g., halo, pocket flap, UI focus)"
+  },
+  "Storyboard Adaptation": {
+    "Gestures": "Open-armed greetings, shrugging with palms up, emphatic pointing, hands on hips, big laugh",
+    "Identifiers": "Bald crown with side tufts, oversized glasses, striped navy shirt with yellow pocket accent",
+    "Focus": "Use yellow halo/block behind head for emphasis when needed",
+    "Scale Guidance": "Design reads clearly at small panel sizes; avoid tiny details"
+  }
+}

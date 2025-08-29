@@ -1,0 +1,37 @@
+{
+    "Replication Checklist — Editorial Storyboard Style": {
+        "Line Work": [
+            "Use uniform medium-weight black lines for all outlines.",
+            "Keep lines clean and smooth, no sketchiness.",
+            "Add small motion/expressive marks (vibration, surprise, relax, sleep cues)."
+        ],
+        "Color Palette": [
+            "Stick to 3 core colors: Deep navy (lines, shadows, clothing), Bright yellow (backgrounds, accents, highlights), White (negative space).",
+            "Apply flat fills only — no gradients or textures.",
+            "Use yellow strategically to draw focus or set mood."
+        ],
+        "Characters": [
+            "Simplified, expressive faces (dot eyes, small mouth, thin brows).",
+            "Slightly larger head-to-body ratio for clear expressions.",
+            "Consistent clothing style (stripes, simple shapes).",
+            "Exaggerated poses to show emotion and action."
+        ],
+        "Panels & Layout": [
+            "Follow a horizontal grid (clear left → right flow).",
+            "Balance wide scenes with close-ups for rhythm.",
+            "Leave enough negative space — avoid overcrowding.",
+            "Include pictograms/text cues when needed (RELAX, SLEEP, arrows, icons)."
+        ],
+        "Typography & Symbols": [
+            "Use bold sans-serif text, mostly uppercase.",
+            "Keep text minimal, just for reinforcement.",
+            "Add symbols (arrows, droplets, marks) as secondary guidance."
+        ],
+        "Narrative & Mood": [
+            "Focus on everyday life situations (home, commute, office).",
+            "Blend human gestures with device feedback (touch, blow, see, sniff).",
+            "Keep tone light, playful, and accessible."
+        ],
+        "Tip": "When in doubt, ask: ‘Is this panel clear, minimal, and expressive enough that someone could understand it at a glance?’"
+    }
+}
